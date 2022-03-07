@@ -3,14 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymerization", "Polymerization\Polymerization.csproj", "{973204E8-799A-4104-87E3-3687A3E438EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymerization", "Polymerization\Polymerization.csproj", "{973204E8-799A-4104-87E3-3687A3E438EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymerization.Tests", "Polymerization.Tests\Polymerization.Tests.csproj", "{28912486-B067-4C20-9994-4D69FC83F9E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymerization.Tests", "Polymerization.Tests\Polymerization.Tests.csproj", "{28912486-B067-4C20-9994-4D69FC83F9E9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{2065A008-FD8A-44E6-8EB6-1FF1CD80D198}"
 	ProjectSection(SolutionItems) = preProject
 		ReadMe.md = ReadMe.md
-		Scratchpad.txt = Scratchpad.txt
 	EndProjectSection
 EndProject
 Global
